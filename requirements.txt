@@ -1,0 +1,7 @@
+#Data Management
+numpy
+pandas
+#Visualization
+matplotlib
+seaborn
+dash
